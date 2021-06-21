@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string-array name="lesotho">
+        <item>Maletsunyane</item>
+        <item>Culture</item>
+        <item>Mountain</item>
+        <item>Dressing</item>
+        <item>Sheperd</item>
+        <item>Tradition</item>
+        <item>Kome</item>
+    </string-array>
+
+    <string-array name="descrption">
+        <item>It is the second largest waterfall in africa.</item>
+        <item>Basotho traditional dance called ntlamo.</item>
+        <item>Lesotho is a mountainous country.</item>
+        <item>Showcase how Basotho dress.</item>
+        <item>Look after cattles and are happiest people ever.</item>
+        <item>Young boys are trained to become men.</item>
+        <item>The older generation used to stay in caves.</item>
+    </string-array>
+</resources>
